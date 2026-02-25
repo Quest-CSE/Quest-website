@@ -5,15 +5,6 @@ import { teamSections } from "@/data/team";
 const TeamSection = () => (
   <section className="section-padding">
     <div className="container-narrow">
-      <ScrollReveal>
-        <h2 className="text-3xl md:text-4xl font-display font-bold text-center mb-4">
-          The <span className="gradient-text">Team</span>
-        </h2>
-        <p className="text-muted-foreground text-center mb-12 max-w-lg mx-auto">
-          The people behind Quest 2026
-        </p>
-      </ScrollReveal>
-
       <div className="space-y-12">
         {teamSections.map((section, si) => (
           <ScrollReveal key={section.title} delay={si * 0.1}>
