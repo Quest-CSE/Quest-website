@@ -33,13 +33,13 @@ const Footer = () => (
           <h4 className="font-display font-semibold mb-4">Contact</h4>
           <p className="text-sm opacity-70 leading-relaxed">
             Department of CSE<br />
-            JNTUH<br />
+            JNTUH UCESTH<br />
             quest.cse@jntuh.ac.in
           </p>
         </div>
       </div>
       <div className="border-t border-primary-foreground/10 mt-8 pt-6 text-center text-sm opacity-50">
-        © 2026 Quest — All rights reserved.
+        2026 Quest 
       </div>
     </div>
   </footer>
