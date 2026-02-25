@@ -43,7 +43,6 @@ export const sponsors = [
   "https://res.cloudinary.com/dvvijlfio/image/upload/v1771821646/989fb302-e418-48ae-b2dd-6ce0b53b74bf_esrup8.jpg", 
   "https://res.cloudinary.com/dvvijlfio/image/upload/v1771821646/images_1_opfcnu.jpg", 
   "https://res.cloudinary.com/dvvijlfio/image/upload/v1772025681/uboi_so8c4t.png",
-  "https://res.cloudinary.com/dvvijlfio/image/upload/v1772025681/uboi_so8c4t.png",
   "https://res.cloudinary.com/dvvijlfio/image/upload/v1771821645/images_1_oghooo.png", 
   "https://res.cloudinary.com/dvvijlfio/image/upload/v1771821645/174809608586_bw8qzt.webp"
 ];
