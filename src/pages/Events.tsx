@@ -23,25 +23,6 @@ const Events = () => (
       </div>
     </section>
   </div>
-  <div className="pt-16">
-    <section className="section-padding">
-      <div className="container-narrow">
-        <SectionHeading
-          title=" Non-Technical"
-          highlight="Events"
-          subtitle="Compete, learn, and showcase your skills across a range of exciting events."
-        />
-
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {events.map((e, i) => (
-            <ScrollReveal key={e.id} delay={i * 0.08}>
-              <EventCard event={e} />
-            </ScrollReveal>
-          ))}
-        </div>
-      </div>
-    </section>
-  </div>
 );
 
 export default Events;
