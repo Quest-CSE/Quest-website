@@ -31,7 +31,7 @@ export const teamSections: TeamSection[] = [
       { name: "Dyawarashetty Akarsh", role: " Treasurer",image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935124/akarsh_pyyg11.jpg", phone : "+91 88856 40223"},
       { name: "Navathe Chandana", role: "Sponsorship Coordinator",image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935225/chandana_xj1fw8.jpg", phone : "+91 99511 84828"},
       { name: "Challa Suchira Reddy", role: "Marketing Coordinator", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935429/suchira_q48gmd.jpg", phone : "+91 81257 24625"},
-      { name: "Shreetan", role: "Sponsorship Coordinator", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772021599/WhatsApp_Image_2026-02-25_at_15.54.18_cuxokl.jpg", phone : "+91 83748 50969 "}
+      { name: "Kagitha Shreetan Goud", role: "Sponsorship Coordinator", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772021599/WhatsApp_Image_2026-02-25_at_15.54.18_cuxokl.jpg", phone : "+91 83748 50969 "}
     ],
   },
 ];
