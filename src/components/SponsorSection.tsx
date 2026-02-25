@@ -9,7 +9,7 @@ const SponsorSection = () => (
           Previous <span className="gradient-text">Sponsors</span>
         </h2>
         <p className="text-muted-foreground text-center mb-12 max-w-lg mx-auto">
-          Trusted by leading technology companies
+          Trusted by leading companies
         </p>
       </ScrollReveal>
 
@@ -20,7 +20,11 @@ const SponsorSection = () => (
               key={s}
               className="bg-card rounded-xl p-6 flex items-center justify-center hover-lift card-shadow"
             >
-              <span className="font-display font-bold text-lg text-muted-foreground">{s}</span>
+
+              <div className="w-40 h-30 rounded-lg  flex items-center justify-center">
+                {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
+                <img src={s}/>
+              </div>
             </div>
           ))}
         </div>

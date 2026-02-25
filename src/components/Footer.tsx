@@ -33,8 +33,8 @@ const Footer = () => (
           <h4 className="font-display font-semibold mb-4">Contact</h4>
           <p className="text-sm opacity-70 leading-relaxed">
             Department of CSE<br />
-            University Engineering College<br />
-            quest2026@college.edu
+            JNTUH<br />
+            quest.cse@jntuh.ac.in
           </p>
         </div>
       </div>

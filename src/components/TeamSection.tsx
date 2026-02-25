@@ -26,11 +26,33 @@ const TeamSection = () => (
                   key={m.name}
                   className="flex flex-col items-center p-5 rounded-xl bg-secondary w-44 hover-lift"
                 >
-                  <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center mb-3">
-                    <User size={24} className="text-primary" />
+                  <div className="w-30 h-30 rounded-full  bg-primary/10 flex items-center justify-center mb-3">
+                    {/* <User size={24} className="text-primary" /> */}
+                    <div className="w-30 h-30 rounded-lg  flex items-center justify-center">
+                      <img src={m.image} className="w-30 h-30 rounded-lg  flex items-center justify-center"/>
+                    </div>
                   </div>
-                  <span className="font-semibold text-sm text-center">{m.name}</span>
-                  <span className="text-xs text-muted-foreground text-center mt-1">{m.role}</span>
+                  {
+                    m.image !== "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828692/IMG-20260221-WA0050_pwipcb.jpg" ? (
+                      <>
+                        <span className="font-semibold text-sm text-center">
+                          {m.name}
+                        </span>
+                        <span className="text-xs text-muted-foreground text-center mt-1">
+                          {m.role}
+                        </span>
+                      </>
+                    ) : <>
+                        <span className="font-semibold text-sm text-center mt-4">
+                          {m.name}
+                        </span>
+                        <span className="text-xs text-muted-foreground text-center mt-1">
+                          {m.role}
+                        </span>
+                      </>
+                  }
+
+                  
                 </div>
               ))}
             </div>

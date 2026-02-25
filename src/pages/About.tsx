@@ -30,11 +30,11 @@ const sections = [
 ];
 
 const milestones = [
-  { year: "2018", event: "Quest inaugurated with 200+ participants" },
-  { year: "2019", event: "Expanded to national level with 500+ participants" },
-  { year: "2020", event: "Virtual edition with record online engagement" },
-  { year: "2022", event: "Hybrid mode with industry partnerships" },
-  { year: "2024", event: "1000+ participants, 30+ events and workshops" },
+  { year: "2021", event: "Quest inaugurated with 200+ participants" },
+  { year: "2022", event: "Expanded to national level with 500+ participants" },
+  { year: "2023", event: "Virtual edition with record online engagement" },
+  { year: "2024", event: "Hybrid mode with industry partnerships" },
+  { year: "2025", event: "1000+ participants, 30+ events and workshops" },
   { year: "2026", event: "Biggest edition yet — you're invited!" },
 ];
 

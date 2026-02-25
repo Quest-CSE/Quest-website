@@ -52,9 +52,9 @@ const CounterSection = () => (
     <div className="container-narrow">
       <ScrollReveal>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-          <Counter end={6} suffix="+" label="Technical Events" />
+          <Counter end={20} suffix="+" label="Events" />
           <Counter end={3} label="Expert Workshops" />
-          <Counter end={1500} suffix="+" label="Expected Participants" />
+          <Counter end={5000} suffix="+" label="Expected Participants" />
           <Counter end={50} suffix="+" label="Colleges Invited" />
         </div>
       </ScrollReveal>

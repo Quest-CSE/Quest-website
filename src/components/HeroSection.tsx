@@ -1,14 +1,14 @@
 import { motion } from "framer-motion";
 import { CalendarDays, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
-import heroBg from "@/assets/hero-bg.jpg";
+// import heroBg from "@/assets/hero-bg.jpg";
 
 const HeroSection = () => (
   <section className="relative min-h-[90vh] flex items-center overflow-hidden">
     {/* Background */}
     <div className="absolute inset-0">
-      <img src={heroBg} alt="" className="w-full h-full object-cover" />
-      <div className="absolute inset-0 gradient-hero-bg opacity-80" />
+      <img src="https://jntuhceh.ac.in//web/photogallery/cse.jpg" alt="" className="w-full h-full object-cover" />
+      <div className="absolute inset-0 gradient-hero-bg opacity-20" />
     </div>
 
     <div className="relative z-10 container-narrow px-4 py-32 text-primary-foreground">
