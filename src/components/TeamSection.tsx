@@ -49,7 +49,18 @@ const TeamSection = () => (
                         <span className="text-xs text-muted-foreground text-center mt-1">
                           {m.role}
                         </span>
-                      </>
+                      </>                      
+                  }
+
+                  {
+                    m.phone &&  <>
+                          <span className="font-semibold text-sm text-center mt-4">
+                            Contact
+                          </span>
+                          <span className="font-semibold text-sm text-center mt-4">
+                                  {m.phone}
+                          </span>
+                    </>
                   }
 
                   
