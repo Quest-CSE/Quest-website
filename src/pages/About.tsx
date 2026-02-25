@@ -23,7 +23,7 @@ const sections = [
     icon: Building,
     title: "Our College",
     paragraphs: [
-      " Jawaharlal Nehru Techonolgy Hyderabad University College  is a prestigious institution committed to academic excellence and holistic development. With a sprawling green campus, modern infrastructure, and a legacy of producing outstanding engineers and researchers.",
+      " Jawaharlal Nehru Technology Hyderabad University College is a prestigious institution committed to academic excellence and holistic development. With a sprawling green campus, modern infrastructure, and a legacy of producing outstanding engineers and researchers.",
       "The college is recognized nationally for its contributions to engineering education and research, and has been consistently ranked among the top engineering institutions in the region.",
     ],
   },
@@ -31,9 +31,9 @@ const sections = [
 
 const milestones = [
   { year: "2004", event: "The Beginning of Innovation" },
-  { year: "2017", event: "Innovation Without Boundaries" },
+  { year: "2010", event: "Innovation Without Boundaries" },
   { year: "2020", event: "Virtual edition with record online engagement" },
-  { year: "2024", event: "Stronger Ideas, Greater Impact" },
+  { year: "2022", event: "Stronger Ideas, Greater Impact" },
   { year: "2025", event: "Engineering the Future Together"  },
   { year: "2026", event: "Biggest edition yet — you're invited!" },
 ];
