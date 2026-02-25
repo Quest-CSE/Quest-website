@@ -7,7 +7,7 @@ const sections = [
     icon: Cpu,
     title: "About Quest",
     paragraphs: [
-      "Quest is the flagship national-level technical symposium organized by the Department of Computer Science & Engineering. Since its inception, Quest has been a platform for students to showcase their technical prowess, learn from industry experts, and network with peers from across the country.",
+      "Quest is the flagship National-level Technical Symposium organized by the Department of Computer Science & Engineering. Since its inception, Quest has been a platform for students to showcase their technical prowess, learn from industry experts, and network with peers from across the country.",
       "The 2026 edition promises to be the biggest yet — with competitive events, expert-led workshops, inspiring talks, and opportunities to engage with cutting-edge technology.",
     ],
   },
@@ -23,18 +23,18 @@ const sections = [
     icon: Building,
     title: "Our College",
     paragraphs: [
-      "University Engineering College is a prestigious institution committed to academic excellence and holistic development. With a sprawling green campus, modern infrastructure, and a legacy of producing outstanding engineers and researchers.",
+      " Jawaharlal Nehru Techonolgy Hyderabad University College  is a prestigious institution committed to academic excellence and holistic development. With a sprawling green campus, modern infrastructure, and a legacy of producing outstanding engineers and researchers.",
       "The college is recognized nationally for its contributions to engineering education and research, and has been consistently ranked among the top engineering institutions in the region.",
     ],
   },
 ];
 
 const milestones = [
-  { year: "2021", event: "Quest inaugurated with 200+ participants" },
-  { year: "2022", event: "Expanded to national level with 500+ participants" },
-  { year: "2023", event: "Virtual edition with record online engagement" },
-  { year: "2024", event: "Hybrid mode with industry partnerships" },
-  { year: "2025", event: "1000+ participants, 30+ events and workshops" },
+  { year: "2004", event: "The Beginning of Innovation" },
+  { year: "2017", event: "Innovation Without Boundaries" },
+  { year: "2020", event: "Virtual edition with record online engagement" },
+  { year: "2024", event: "Stronger Ideas, Greater Impact" },
+  { year: "2025", event: "Engineering the Future Together"  },
   { year: "2026", event: "Biggest edition yet — you're invited!" },
 ];
 
