@@ -13,7 +13,7 @@ const FeedbackSection = () => (
           Help us make Quest even better. Share your thoughts, suggestions, and experience.
         </p>
         <a
-          href="https://forms.google.com"
+          href="https://forms.gle/sAg75yhEf5c4nd3UA"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 gradient-bg px-8 py-3 rounded-lg font-semibold text-primary-foreground transition-transform hover:scale-105"
