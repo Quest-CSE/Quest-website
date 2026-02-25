@@ -12,7 +12,7 @@ export interface TeamSection {
 
 export const teamSections: TeamSection[] = [
   {
-    title: "Leadership",
+    title: "College Management",
     members: [
       { name: "Prof. T. Kishen Kumar Reddy Garu", role: "Vice Chancellor" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828691/VC_vtxtet.jpg", phone : null},
       { name: "Dr K Vijaya Kumar Reddy Garu", role: "Rector" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828692/IMG-20260221-WA0050_pwipcb.jpg", phone : null},
