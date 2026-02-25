@@ -31,9 +31,9 @@ export const gallerySections: GallerySection[] = [
     id: "campus",
     title: "Our Campus",
     photos: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=600&h=400&fit=crop",
-      "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=600&h=400&fit=crop",
-      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&h=400&fit=crop",
+    //   "https://images.unsplash.com/photo-1562774053-701939374585?w=600&h=400&fit=crop",
+    //   "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=600&h=400&fit=crop",
+    //   "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&h=400&fit=crop",
     ],
   },
 ];
