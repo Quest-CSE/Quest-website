@@ -154,5 +154,5 @@ export const events: EventItem[] = [
     entryFee: "",
     registrationLink: "",
   },
-  ],
+  ];
   
