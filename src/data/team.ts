@@ -14,18 +14,18 @@ export const teamSections: TeamSection[] = [
   {
     title: "College Management",
     members: [
-      { name: "Prof. T. Kishen Kumar Reddy Garu", role: "Vice Chancellor" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828691/VC_vtxtet.jpg", phone : null},
-      { name: "Dr K Vijaya Kumar Reddy Garu", role: "Rector" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828692/IMG-20260221-WA0050_pwipcb.jpg", phone : null},
-      { name: "Prof. K Venkateswara Rao Garu", role: "Registrar", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933709/IMG-20260221-WA0051_mztdjv.jpg", phone : null},
-      { name: "Dr.G.Venkata Narasimha Reddy Garu", role: "Principal", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828690/IMG-20260221-WA0053_xwzkie.jpg", phone : null },
+      { name: "Prof. T. Kishen Kumar Reddy", role: "Vice Chancellor" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828691/VC_vtxtet.jpg", phone : null},
+      { name: "Dr K Vijaya Kumar Reddy", role: "Rector" , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828692/IMG-20260221-WA0050_pwipcb.jpg", phone : null},
+      { name: "Prof. K Venkateswara Rao", role: "Registrar", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933709/IMG-20260221-WA0051_mztdjv.jpg", phone : null},
+      { name: "Dr.G.Venkata Narasimha Reddy", role: "Principal", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828690/IMG-20260221-WA0053_xwzkie.jpg", phone : null },
     ],
   },
    {
     title: "Department",
     members: [
-      { name: "Dr. K P Supreethi Garu", role: "Head of Department CSE", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828666/IMG-20260221-WA0047_heqaiq.jpg", phone : null},
-      { name: "	Dr B Padmaja Rani Garu", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934923/WhatsApp_Image_2026-02-23_at_12.22.09_PM_g9gpdq.jpg", phone : null},
-      { name: "Prof. K Santhi Sree Garu", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935042/IMG-20260223-WA0018_dk8vhk.jpg", phone : null},
+      { name: "Dr. K P Supreethi", role: "Head of Department CSE", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828666/IMG-20260221-WA0047_heqaiq.jpg", phone : null},
+      { name: "	Dr B Padmaja Rani", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934923/WhatsApp_Image_2026-02-23_at_12.22.09_PM_g9gpdq.jpg", phone : null},
+      { name: "Prof. K Santhi Sree", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935042/IMG-20260223-WA0018_dk8vhk.jpg", phone : null},
     ],
   },
  
