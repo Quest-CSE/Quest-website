@@ -6,8 +6,9 @@ const Footer = () => (
       <div className="grid md:grid-cols-3 gap-8">
         <div>
           <div className="flex items-center gap-2 mb-4">
-            <div className="w-8 h-8 rounded-lg gradient-bg flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-sm">Q</span>
+            <div className="w-10 h-10 rounded-lg  flex items-center justify-center">
+              {/* <span className="text-primary-foreground font-display font-bold text-sm">Q</span> */}
+              <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1771760690/craiyon_173618_image_xzibl9.png"/>
             </div>
             <span className="font-display font-bold text-lg">Quest 2026</span>
           </div>
