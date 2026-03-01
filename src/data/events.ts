@@ -298,4 +298,84 @@ export const events: EventItem[] = [
     ],
     date: "Registration Deadline: 07/04/25",
   },
+  {
+    id: "skribble",
+    title: "Skribble",
+    shortDescription: "Draw the word while others guess! Top scorers from each room advance to the Grand Finale.",
+    description:
+      "Skribble is a fun drawing-and-guessing game! Participants are grouped into rooms of 5-8 players. One player draws a given word while others guess it in the chat or on paper within 60 seconds. Points are awarded based on how fast the correct answer is guessed. The artist also gains points if their drawing is recognized. Top scorers from each room advance to the Grand Finale round.",
+    image: "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&h=400&fit=crop",
+    host: "CSE Department, JNTUH-UCESTH",
+    rules: [
+      "Individual participation – participants are grouped into rooms of 5-8 players",
+      "One player draws a given word while others guess it in the chat/on paper within 60 seconds",
+      "Points awarded based on how fast the correct answer is guessed",
+      "The artist also gains points if their drawing is recognized",
+      "Top scorers from each room advance to the Grand Finale round",
+    ],
+    entryFee: "To be announced",
+    registrationLink: "",
+    rewards: ["Prizes for Grand Finale winners"],
+    rounds: [
+      {
+        title: "Qualifier Round",
+        details: [
+          "Participants grouped into rooms of 5-8 players",
+          "One player draws, others guess within 60 seconds",
+          "Points for speed of correct guess + artist points if drawing is recognized",
+          "Top scorers from each room advance",
+        ],
+      },
+      {
+        title: "Grand Finale",
+        details: ["Top scorers from each room compete for the ultimate prize"],
+      },
+    ],
+  },
+  {
+    id: "tech-auction",
+    title: "Tech Auction",
+    shortDescription: "Bid your points to answer technical questions! Highest bidder gets to answer – correct or pay the price.",
+    description:
+      "Tech Auction is a thrilling point-bidding competition! Each participant starts with 100 points. Bid points to answer technical questions – the highest bidder gets the chance to answer. Correct answers add points, wrong answers deduct them. Points cannot go below zero. Top scorers from the online Round 1 qualify for the offline Tech Auction finale.",
+    image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+    host: "CSE Department, JNTUH-UCESTH",
+    rules: [
+      "Each participant starts with 100 points",
+      "Participants bid points to answer technical questions",
+      "Highest bidder gets the chance to answer",
+      "Correct → +Bid Points | Wrong → −Bid Points",
+      "Points cannot go below zero",
+      "Participant with the most points wins",
+    ],
+    entryFee: "Round 1: FREE | Round 2: To be announced",
+    registrationLink: "",
+    rewards: ["Tech Auction Champion – highest total points wins"],
+    rounds: [
+      {
+        title: "Round 1 (Online)",
+        details: [
+          "Aptitude & MCQs",
+          "30 Questions | 30 Minutes",
+          "Conducted online",
+          "Registration: FREE",
+          "Top 10 participants with highest points qualify for Round 2",
+        ],
+        fee: "FREE",
+      },
+      {
+        title: "Round 2 (Offline): Tech Auction",
+        details: [
+          "Only top 10 finalists from Round 1 participate",
+          "Each participant starts with 100 points",
+          "Participants bid points to answer technical questions",
+          "Highest bidder gets the chance to answer",
+          "Correct → +Bid Points | Wrong → −Bid Points",
+          "Points cannot go below zero",
+          "Double or Nothing (final phase): Last 3 questions – participants can choose to double their bid. Correct → 2× points added | Wrong → 2× points deducted",
+          "Participant with the highest total points is declared the Tech Auction Champion",
+        ],
+      },
+    ],
+  },
 ];
