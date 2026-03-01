@@ -1,8 +1,9 @@
-import { Clock, ExternalLink } from "lucide-react";
+import { Clock } from "lucide-react";
+import { Link } from "react-router-dom";
 import type { Workshop } from "@/data/workshops";
 
 const WorkshopCard = ({ workshop }: { workshop: Workshop }) => (
-  <div className="group rounded-2xl overflow-hidden bg-card card-shadow hover-lift">
+  <Link to={`/workshops/${workshop.id}`} className="group block rounded-2xl overflow-hidden bg-card card-shadow hover-lift">
     <div className="aspect-[16/9] overflow-hidden relative">
       <img
         src={workshop.image}
@@ -22,22 +23,12 @@ const WorkshopCard = ({ workshop }: { workshop: Workshop }) => (
       <p className="text-sm text-muted-foreground leading-relaxed mb-4">
         {workshop.shortDescription}
       </p>
-      <div className="flex items-center justify-between">
-        <div className="flex items-center gap-4 text-xs text-muted-foreground">
-          <span className="flex items-center gap-1"><Clock size={14} /> {workshop.duration}</span>
-          <span className="font-semibold text-foreground">{workshop.fee}</span>
-        </div>
-        <a
-          href={workshop.registrationLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-1 gradient-bg text-primary-foreground text-sm font-semibold px-4 py-2 rounded-lg transition-transform hover:scale-105"
-        >
-          Register <ExternalLink size={14} />
-        </a>
+      <div className="flex items-center gap-4 text-xs text-muted-foreground">
+        <span className="flex items-center gap-1"><Clock size={14} /> {workshop.duration}</span>
+        <span className="font-semibold text-foreground">{workshop.fee}</span>
       </div>
     </div>
-  </div>
+  </Link>
 );
 
 export default WorkshopCard;
