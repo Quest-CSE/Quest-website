@@ -16,7 +16,7 @@ export interface Workshop {
 
 export const workshops: Workshop[] = [
   {
-    id: "ml-workshop",
+    id: "agentic-ai",
     title: "Agentic AI Workshop",
     mentor: "",
     mentorImage: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
@@ -31,7 +31,7 @@ export const workshops: Workshop[] = [
     topics: ["Data Preprocessing", "Supervised Learning", "Model Evaluation", "Neural Networks Intro", "Model Deployment"],
   },
   {
-    id: "cloud-workshop",
+    id: "mern-workshop",
     title: "MERN Stack Workshop",
     mentor: "",
     mentorImage: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
