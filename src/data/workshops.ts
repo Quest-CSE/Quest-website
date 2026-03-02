@@ -40,7 +40,7 @@ export const workshops: Workshop[] = [
     image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772028606/MERN_dn2b7t.webp",
     badge: "Limited Seats",
     registrationLink: "https://forms.google.com",
-    duration: "8 hours",
+    duration: "6 hours",
     fee: "",
     prerequisites: ["Basic Linux commands", "Understanding of networking", "Laptop required"],
     topics: ["AWS Fundamentals", "Docker Containers", "CI/CD Pipelines", "Kubernetes Orchestration", "Infrastructure as Code"],
