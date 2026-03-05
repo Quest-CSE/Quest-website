@@ -126,36 +126,6 @@ const WorkshopDetail = () => {
         </div>
       </section>
     </div>
-
-    <div className="pt-16">
-      <section className="section-padding">
-        <div className="container-narrow max-w-3xl">
-          <Link
-            to="/workshops"
-            className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8"
-          >
-            <ArrowLeft size={16} /> Back to workshops
-          </Link>
-
-          <ScrollReveal>
-            <div className="rounded-2xl overflow-hidden card-shadow mb-8">
-              <img src={workshop.image} alt={workshop.title} className="w-full aspect-[2/1] object-cover" />
-            </div>
-          </ScrollReveal>
-
-          <ScrollReveal delay={0.1}>
-            {workshop.badge && (
-              <span className="inline-block gradient-bg text-primary-foreground text-xs font-bold px-3 py-1 rounded-full mb-4">
-                {workshop.badge}
-              </span>
-            )}
-            <h1 className="text-3xl md:text-4xl font-display font-bold mb-6">{workshop.title}</h1>
-
-            <h2 className="text-3x md:text-4x  font-display font-bold mb-6">Comming Soon..</h2>
-          </ScrollReveal>
-        </div>
-      </section>
-    </div>
   );
 };
 
