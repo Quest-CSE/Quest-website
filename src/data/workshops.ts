@@ -18,7 +18,7 @@ export const workshops: Workshop[] = [
   {
     id: "agentic-ai",
     title: "Agentic AI Workshop",
-    mentor: "",
+    mentor: "Sandeep",
     mentorImage: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
     shortDescription: "Build autonomous AI systems that plan, reason, and take actions using modern LLM-based agent frameworks.",
     description: "Dive deep into machine learning with hands-on exercises. Learn data preprocessing, model training, evaluation, and deployment. This workshop is designed for students who want to build real-world ML projects from scratch.",
@@ -33,7 +33,7 @@ export const workshops: Workshop[] = [
   {
     id: "mern-workshop",
     title: "MERN Stack Workshop",
-    mentor: "",
+    mentor: "Bhaskar",
     mentorImage: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
     shortDescription: "Learn to develop full-stack web applications using MongoDB, Express.js, React, and Node.js.",
     description: "Learn to develop full-stack web applications using MongoDB, Express.js, React, and Node.js",
@@ -48,7 +48,7 @@ export const workshops: Workshop[] = [
   {
     id: "cybersecurity-workshop",
     title: "Cybersecurity Essentials Workshop",
-    mentor: "",
+    mentor: "Jaya Krishna",
     mentorImage: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
     shortDescription: "Master ethical hacking fundamentals, network security, and real-world threat detection and prevention techniques.",
     description: "Learn ethical hacking fundamentals, perform vulnerability assessments, and understand secure coding practices. This workshop provides real-world scenarios and hands-on labs for aspiring security professionals.",
