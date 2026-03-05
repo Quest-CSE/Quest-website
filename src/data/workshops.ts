@@ -48,8 +48,8 @@ export const workshops: Workshop[] = [
   {
     id: "cybersecurity-workshop",
     title: "Cybersecurity Essentials Workshop",
-    mentor: "Jaya Krishna",
-    mentorImage: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+    mentor: "Jaya Krishna Rao Sompalle",
+    mentorImage: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772694750/jayakrishna-hacking-trainer-hyderabad_oqiiqa.jpg",
     shortDescription: "An introductory workshop that helps students understand the fundamentals of cybersecurity, common cyber threats, and basic techniques used to protect systems and data.",
     description: "This workshop introduces students to the core concepts of cybersecurity and the importance of protecting digital systems from cyber threats. Participants will learn about common attacks such as Phishing, Malware, and Denial-of-Service attack, along with the basic principles used to defend against them. The session will also cover ethical hacking fundamentals, security best practices, and simple demonstrations of cybersecurity tools used to identify vulnerabilities. By the end of the workshop, students will gain a foundational understanding of how cybersecurity works and how to stay safe in the digital world.",
     image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=500&fit=crop",
