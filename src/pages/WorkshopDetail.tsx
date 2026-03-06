@@ -28,9 +28,11 @@ const WorkshopDetail = () => {
           </Link>
 
           <ScrollReveal>
-            <div className="rounded-2xl overflow-hidden card-shadow mb-8">
-              <img src={workshop.image} alt={workshop.title} className="w-full aspect-[2/1] object-cover" />
-            </div>
+            <img
+              src={workshop.image}
+              alt={workshop.title}
+              className="w-full h-auto object-contain"
+              />
           </ScrollReveal>
 
           <ScrollReveal delay={0.1}>
