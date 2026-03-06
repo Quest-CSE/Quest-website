@@ -33,7 +33,7 @@ export const workshops: Workshop[] = [
   {
     id: "mern-workshop",
     title: "MERN Stack Workshop",
-    mentor: "Bhaskar Sai Chitturi",
+    mentor: "Bhaskara Sai Chitturi",
     mentorImage: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772769036/Screenshot_2026-03-06_091948-removebg-preview_ift5fq.png",
     shortDescription: "An introductory workshop where students learn to build modern full-stack web applications using the MERN stack—MongoDB, Express.js, React, and Node.js.",
     description: "This workshop introduces participants to the MERN stack, a popular JavaScript-based technology stack used for building scalable web applications. Students will learn how the frontend, backend, and database work together to create dynamic applications. Through demonstrations and hands-on examples, participants will explore building a simple full-stack application using React for the frontend, Node.js and Express for the backend, and MongoDB for data storage.",
