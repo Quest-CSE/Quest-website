@@ -380,4 +380,65 @@ export const events: EventItem[] = [
       },
     ],
   },
+    {
+    id: "battle-of-brains",
+    title: "Battle of Brains",
+    shortDescription: "Exciting quiz competition testing knowledge in sports and movies.",
+    description:
+      "Battle of Brains is a fun and exciting quiz competition that tests participants’ knowledge in sports and movies. Participants must think quickly and answer questions correctly to score points and win the game.",
+    image: "https://images.unsplash.com/photo-1553484771-047a44eee27b?w=600&h=400&fit=crop",
+    host: "",
+    rules: [
+      "Questions will be asked by the host during the event.",
+      "Participants must answer within the allotted time.",
+      "Correct answers will earn points.",
+      "The participant/team with the maximum points at the end will win.",
+      "The host’s decision will be final.",
+    ],
+    entryFee: "₹100 per participant",
+    registrationLink: "",
+    rewards: [
+      "Winner: ₹1500",
+      "Runner-Up: ₹1000",
+    ],
+  },
+
+  {
+    id: "spin-the-wheel",
+    title: "Spin the Wheel",
+    shortDescription: "Fun tech-based mini challenges testing creativity, teamwork, and quick thinking.",
+    description:
+      "Spin the Wheel is a fun and interactive event filled with exciting mini-challenges related to technology, creativity, and teamwork. Teams will spin the wheel to randomly select a challenge and complete it within the given time.",
+    image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&h=400&fit=crop",
+    host: "",
+    rules: [
+      "Teams spin the wheel to randomly select a challenge.",
+      "Each challenge must be completed within the allotted time.",
+      "Challenges test creativity, technical knowledge, communication, and teamwork.",
+      "Points will be awarded based on performance in each challenge.",
+      "Top teams qualify for the final spin.",
+      "The Top 3 teams face the Final Boss Spin to determine the winner.",
+      "The host’s decision will be final.",
+    ],
+    entryFee: "₹80 per participant",
+    registrationLink: "",
+    rewards: [
+      "Winner: ₹1200",
+    ],
+    rounds: [
+      {
+        title: "Mini Challenges",
+        details: [
+          "AI Prompt Challenge – Write the prompt that generated a strange AI image within 45 seconds.",
+          "Poll the Crew – Audience suggests solutions if the team gets stuck on a tech task.",
+          "Blindfold Tech Drawing – One teammate draws a tech logo while blindfolded using partner directions.",
+          "Ping vs Pong – Rapid-fire tech word association game with 2-second response limit.",
+          "Emoji Codebreaker – Guess tech brands or concepts from emojis within 10 seconds.",
+          "Prompt-to-Picasso – One participant describes an AI prompt while the partner draws it.",
+          "Live Quest Leaderboard – Scores displayed live to track team rankings.",
+          "Final Boss Spin – Top 3 teams spin again for the final grand challenge.",
+        ],
+      },
+    ],
+  },
 ];
