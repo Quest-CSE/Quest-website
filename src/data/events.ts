@@ -375,7 +375,7 @@ export const events: EventItem[] = [
           "Double or Nothing (final phase): Last 3 questions – participants can choose to double their bid. Correct → 2× points added | Wrong → 2× points deducted",
           "Participant with the highest total points is declared the Tech Auction Champion",
         ],
-        fee: "₹200 per team (2 members)", "₹130 for single participant
+        fee: "₹200 per team (2 members) | ₹130 for single participant",
 
       },
     ],
