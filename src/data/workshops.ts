@@ -19,7 +19,7 @@ export const workshops: Workshop[] = [
     id: "agentic-ai",
     title: "Agentic AI Workshop",
     mentor: "Sandeep",
-    mentorImage: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+    mentorImage: "https://res.cloudinary.com/dvvijlfio/image/upload/v1772967997/Screenshot_2026-03-08_154710-removebg-preview_fns1wd.png",
     shortDescription: "Build autonomous AI systems that plan, reason, and take actions using modern LLM-based agent frameworks.",
     description: "An Agentic AI Workshop designed for B.Tech students to explore how AI agents can plan, decide, and perform tasks autonomously. The session introduces core concepts of agent-based AI with simple examples and hands-on insights into building intelligent systems.",
     image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1773081694/AGENTIC_AI_FINALLL_1__page-0001_ashzis.jpg",
