@@ -33,7 +33,7 @@ export const events: EventItem[] = [
     description:
       "Present your innovative projects to a panel of experts. Come prepared with your PPT and poster for demonstration.",
     image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
-    host: "",
+    host: "Vatsav",
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
     entryFee: "Free Registration (Spot Registration Available)",
     registrationLink: "",
@@ -51,7 +51,7 @@ export const events: EventItem[] = [
     description:
       "Blind Code is a unique programming competition where you write code without looking at the screen! Participants are given a coding problem and a limited time to solve it with their eyes closed off. The fastest coder with the correct output wins.",
     image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-    host: "",
+    host: ["Karthik","Karthik Raj","Akhila","Pavan"],
     rules: [
       "Participants will code with monitors turned OFF.",
       "The problem statement will be provided, and participants must write the correct code without seeing the monitor.",
