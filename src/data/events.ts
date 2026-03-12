@@ -51,7 +51,7 @@ export const events: EventItem[] = [
     description:
       "Blind Code is a unique programming competition where you write code without looking at the screen! Participants are given a coding problem and a limited time to solve it with their eyes closed off. The fastest coder with the correct output wins.",
     image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-    host: ["Karthik","Karthik Raj","Akhila","Pavan"],
+    host: "Karthik",
     rules: [
       "Participants will code with monitors turned OFF.",
       "The problem statement will be provided, and participants must write the correct code without seeing the monitor.",
@@ -95,7 +95,7 @@ export const events: EventItem[] = [
     description:
       "RELAY CODE is a National Level Technical Event conducted by the CSE Department, JNTUH-UCESTH, as part of QUEST'26. Coordination and speed matter as much as logic! First coder codes for 15 mins, then the second coder takes over and completes the code in 15 mins. Judging is based on code correctness, efficiency & teamwork.",
     image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-    host: "",
+    host: "Rashmi",
     rules: [
       "5 mins for discussion and strategy",
       "First coder: Codes for 15 mins",
@@ -136,7 +136,7 @@ export const events: EventItem[] = [
     description:
       "Round 1 tests your logical skills with an online aptitude test. Round 2 is a debugging challenge where you fix errors and prove your coding skills. Mode can be Online or Offline.",
     image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&h=400&fit=crop",
-    host: "CSE Department, JNTUH-UCESTH",
+    host: "Tulasi",
     rules: [
       "Round 1: Online Aptitude Test (FREE) – Test your logical skills!",
       "Round 2: Debugging Challenge – Fix the errors & prove your coding skills!",
@@ -163,7 +163,7 @@ export const events: EventItem[] = [
     description:
       "Round 1: Choose one domain, pick a problem statement, and propose an effective solution through an impressive PPT presentation. This round is conducted online and is completely free. Round 2: Present your idea (prototype optional) to an expert panel specialized in your chosen domain. This round is held offline during the fest, and a participation fee applies only if you qualify.",
     image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
-    host: "",
+    host: "Keerthi",
     rules: [
       "Round 1: Choose one domain, pick a problem statement, propose an effective solution through Presentation(Online, FREE)",
       "Round 2: Present your idea (prototype optional) to an expert panel (Offline, fee applies only if qualified)",
@@ -204,7 +204,7 @@ export const events: EventItem[] = [
     description:
       "Prepare for the ultimate test of speed and knowledge! A thrilling two-round competition.",
     image: "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=600&h=400&fit=crop",
-    host: "",
+    host: "Prakash",
     rules: [
       "Round 1: Online Menti Quiz (Free) – Top performers shortlisted",
       "Round 2: Offline Showdown (Entry Fee: ₹120)",
@@ -254,7 +254,7 @@ export const events: EventItem[] = [
     description:
       "The tournament comprises three rounds of debate. Teams of exactly 2 members compete in an offline format. Round 1: Qualifier Clash with structured rebuttals. Round 2: Semi-Finals with topics given 15 minutes before start. Round 3: Grand Finale – the best team wins.",
     image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
-    host: "",
+    host: "Ramudu",
     rules: [
       "Teams of exactly 2 members",
       "All rounds conducted offline",
@@ -337,7 +337,7 @@ export const events: EventItem[] = [
     description:
       "Tech Auction is a thrilling point-bidding competition! Each participant starts with 100 points. Bid points to answer technical questions – the highest bidder gets the chance to answer. Correct answers add points, wrong answers deduct them. Points cannot go below zero. Top scorers from the online Round 1 qualify for the offline Tech Auction finale.",
     image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
-    host: "",
+    host: "Jahnavi",
     rules: [
       "1.	Each team will be given a fixed number of starting points at the beginning of the event.",
       "2.	The host will announce a technical question or topic.",
