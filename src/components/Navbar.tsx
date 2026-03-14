@@ -5,9 +5,11 @@ import { Menu, X } from "lucide-react";
 const navLinks = [
   { label: "Home", path: "/" },
   { label: "Events", path: "/events" },
+  {label : "Contest", path: "/codeclutch"},
   { label: "Workshops", path: "/workshops" },
   { label: "Gallery", path: "/gallery" },
   { label: "About", path: "/about" },
+  
 ];
 
 const Navbar = () => {

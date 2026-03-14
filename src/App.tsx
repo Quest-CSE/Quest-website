@@ -13,6 +13,7 @@ import WorkshopDetail from "./pages/WorkshopDetail";
 import Gallery from "./pages/Gallery";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
+import CodeClutch from "./pages/CodeClutch";
 
 const queryClient = new QueryClient();
 
@@ -32,6 +33,7 @@ const App = () => (
             <Route path="/workshops/:id" element={<WorkshopDetail />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/about" element={<About />} />
+            <Route path="/codeclutch" element={<CodeClutch />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
