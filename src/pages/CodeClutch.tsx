@@ -121,7 +121,7 @@ const CodeClutch = () => {
 
             {/* Register button */}
             <a
-              href="https://questcse.in"
+              href="https://forms.gle/Qy84NZVM2o2bLSXC7"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 gradient-bg text-primary-foreground font-semibold px-8 py-3 rounded-lg transition-transform hover:scale-105"
