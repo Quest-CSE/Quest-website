@@ -9,14 +9,14 @@ import {
   ExternalLink
 } from "lucide-react";
 import ScrollReveal from "@/components/ScrollReveal";
-import poster from "@/assets/Codeclutch poster (1).png";
+// import poster from "@/assets/Codeclutch poster (1).png";
 
 const CodeClutch = () => {
 
   const rounds = [
     "Round 1 — 20 March 2026 (Online)", 
-    "Round 2 — 24 March 2026 (10:30 AM)",
-    "Round 3 — 24 March 2026 (02:30 PM)"
+    "Round 2 — 23 March 2026 (10:30 AM)",
+    "Round 3 — 23 March 2026 (02:30 PM)"
   ];
 
   const coordinators = [
@@ -38,7 +38,7 @@ const CodeClutch = () => {
 
           <ScrollReveal>
             <img
-              src={poster}
+              src={"https://res.cloudinary.com/dvvijlfio/image/upload/v1773493883/Codeclutch_poster_1_xhlamk.png"}
               alt="CodeClutch Contest"
               className="w-full rounded-xl shadow-lg mb-8"
             />

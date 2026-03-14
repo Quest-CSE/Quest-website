@@ -5,6 +5,7 @@ import TeamSection from "@/components/TeamSection";
 import LocationSection from "@/components/LocationSection";
 import FeedbackSection from "@/components/FeedbackSection";
 import ScrollReveal from "@/components/ScrollReveal";
+import LatestEventsSection from "@/components/LatestEventsSection";
 
 const Index = () => (
   <>
@@ -21,8 +22,9 @@ const Index = () => (
             April 9 – 10, 2026
           </h2>
           <p className="text-muted-foreground max-w-xl mx-auto leading-relaxed">
-            Join us for two days packed with competitive events, hands-on workshops, 
-            expert talks, and unforgettable experiences at our national-level technical symposium.
+            Join us for two days packed with competitive events, hands-on
+            workshops, expert talks, and unforgettable experiences at our
+            national-level technical symposium.
           </p>
         </ScrollReveal>
       </div>
@@ -30,6 +32,8 @@ const Index = () => (
 
     <CounterSection />
     <SponsorSection />
+
+    <LatestEventsSection />
     <TeamSection />
     <LocationSection />
     <FeedbackSection />
