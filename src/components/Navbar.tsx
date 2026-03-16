@@ -26,7 +26,7 @@ const Navbar = () => {
           </div>
           <div className="w-40 h-30 rounded-lg  flex items-center justify-center">
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
-            <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1773639536/Quest_2026_Logo_Final_dqgqsc.jpg"/>
+            <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1773639927/Quest_2026_Logo_Final-removebg-preview_2_wommof.png"/>
           </div>
           
         </Link>
