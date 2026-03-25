@@ -32,14 +32,14 @@ export const events: EventItem[] = [
     shortDescription: "Showcase your innovative projects with PPT & poster.",
     description:
       "Present your innovative projects to a panel of experts. Come prepared with your PPT and poster for demonstration.",
-    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
-    host: "Vatsav",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774432175/WhatsApp_Image_2026-03-24_at_10.16.03_PM_2_hevvqs.jpg",
+    host: "Sri Vatchav",
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
-    entryFee: "Free Registration (Spot Registration Available)",
+    entryFee: "150/- (Spot Registration Available)",
     registrationLink: "",
     rewards: ["Winner Prize: ₹2000/-"],
     facultyCoordinators: [
-      "Dr. K.P Supreethi",
+      "Dr. B.Padmaja Rani","Dr. K Santhi Sree",
     ],
     requirements: ["Come prepared with your Presentation & Poster for demonstration"],
   },
@@ -50,7 +50,7 @@ export const events: EventItem[] = [
       "Write code without looking at the screen! Solve problems with your eyes closed.",
     description:
       "Blind Code is a unique programming competition where you write code without looking at the screen! Participants are given a coding problem and a limited time to solve it with their eyes closed off. The fastest coder with the correct output wins.",
-    image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437889/BLIND_CODE_yhglyb.jpg",
     host: "Karthik",
     rules: [
       "Participants will code with monitors turned OFF.",
@@ -94,7 +94,7 @@ export const events: EventItem[] = [
       "Team-based coding competition where coordination and speed matter as much as logic!",
     description:
       "RELAY CODE is a National Level Technical Event conducted by the CSE Department, JNTUH-UCESTH, as part of QUEST'26. Coordination and speed matter as much as logic! First coder codes for 15 mins, then the second coder takes over and completes the code in 15 mins. Judging is based on code correctness, efficiency & teamwork.",
-    image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437963/0001_rtyyct.jpg",
     host: "Rashmi",
     rules: [
       "5 mins for discussion and strategy",
@@ -130,12 +130,12 @@ export const events: EventItem[] = [
     languages: "C / C++ / Java / Python",
   },
   {
-    id: "troubleshoot",
-    title: "Trouble Shoot",
+    id: "Debugging",
+    title: "Debugging",
     shortDescription: "Test your logical skills in Round 1, then fix errors in the debugging challenge!",
     description:
       "Round 1 tests your logical skills with an online aptitude test. Round 2 is a debugging challenge where you fix errors and prove your coding skills. Mode can be Online or Offline.",
-    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437890/debugging_vcf1d2.jpg",
     host: "Tulasi",
     rules: [
       "Round 1: Online Aptitude Test (FREE) – Test your logical skills!",
@@ -162,7 +162,7 @@ export const events: EventItem[] = [
     shortDescription: "Choose a domain, propose a solution via Presentation, and present to an expert panel.",
     description:
       "Round 1: Choose one domain, pick a problem statement, and propose an effective solution through an impressive PPT presentation. This round is conducted online and is completely free. Round 2: Present your idea (prototype optional) to an expert panel specialized in your chosen domain. This round is held offline during the fest, and a participation fee applies only if you qualify.",
-    image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437891/ideathon_final_vdrmxb.jpg",
     host: "Keerthi",
     rules: [
       "Round 1: Choose one domain, pick a problem statement, propose an effective solution through Presentation(Online, FREE)",
@@ -203,7 +203,7 @@ export const events: EventItem[] = [
     shortDescription: "Ultimate test of speed and knowledge – Fastest Finger Round & Hot Seat!",
     description:
       "Prepare for the ultimate test of speed and knowledge! A thrilling two-round competition.",
-    image: "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437035/WhatsApp_Image_2026-03-25_at_4.30.26_PM_oq8w6o.jpg",
     host: "Prakash",
     rules: [
       "Round 1: Online Menti Quiz (Free) – Top performers shortlisted",
@@ -217,7 +217,7 @@ export const events: EventItem[] = [
     entryFee: "Round 1: FREE | Round 2: ₹120",
     registrationLink: "",
     rewards: [
-      "Winner – ₹2500",
+      "Winner – ₹2000",
       "All participants who play with the host receive prize money",
       "Prize money awarded based on performance in the game",
     ],
@@ -253,7 +253,7 @@ export const events: EventItem[] = [
     shortDescription: "Three rounds of structured debate – Qualifier, Semi-Finals, and Grand Finale.",
     description:
       "The tournament comprises three rounds of debate. Teams of exactly 2 members compete in an offline format. Round 1: Qualifier Clash with structured rebuttals. Round 2: Semi-Finals with topics given 15 minutes before start. Round 3: Grand Finale – the best team wins.",
-    image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774432178/WhatsApp_Image_2026-03-24_at_10.16.03_PM_xq0hog.jpg",
     host: "Ramudu",
     rules: [
       "Teams of exactly 2 members",
@@ -336,7 +336,7 @@ export const events: EventItem[] = [
     shortDescription: "Bid your points to answer technical questions! Highest bidder gets to answer – correct or pay the price.",
     description:
       "Tech Auction is a thrilling point-bidding competition! Each participant starts with 100 points. Bid points to answer technical questions – the highest bidder gets the chance to answer. Correct answers add points, wrong answers deduct them. Points cannot go below zero. Top scorers from the online Round 1 qualify for the offline Tech Auction finale.",
-    image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437892/techauction_1_qusn05.jpg",
     host: "Jahnavi",
     rules: [
       "1.	Each team will be given a fixed number of starting points at the beginning of the event.",
@@ -386,7 +386,7 @@ export const events: EventItem[] = [
     shortDescription: "Exciting quiz competition testing knowledge in sports and movies.",
     description:
       "Battle of Brains is a fun and exciting quiz competition that tests participants’ knowledge in sports and movies. Participants must think quickly and answer questions correctly to score points and win the game.",
-    image: "https://images.unsplash.com/photo-1553484771-047a44eee27b?w=600&h=400&fit=crop",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437889/battle_of_brains_1_blr3xk.jpg",
     host: "",
     rules: [
       "Questions will be asked by the host during the event.",
