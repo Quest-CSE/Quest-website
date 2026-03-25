@@ -27,6 +27,9 @@ const HeroSection = () => (
           Quest<span className="opacity-50">.</span>2026
         </h1>
 
+        <p>Proudly Presented By</p>
+        <img  height={100} width={100} src = "https://www.being-infinity.com/assets/logo-f3F726X9.png"/><br/>
+
         <p className="text-lg md:text-xl leading-relaxed opacity-80 mb-8 max-w-lg">
           National Level Technical Symposium — where innovation meets excellence. 
           Two days of events, workshops, and knowledge sharing.
