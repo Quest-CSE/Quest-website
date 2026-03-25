@@ -61,7 +61,7 @@ export const events: EventItem[] = [
     ],
     entryFee: "Round 1: FREE | Round 2: ₹100/- (Early Bird) [Actual: ₹120]",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdDhPrdY3JqJGGdMd7wEhEiNO-0kaI02MwCzkDg_T_9yQjsTw/viewform",
-    rewards: ["1st Place: ₹2000", "2nd Place: ₹1000", "Participation Certificates for Round 2 qualifiers"],
+    rewards: ["1st Place: ₹1500", "2nd Place: ₹1000", "Participation Certificates for Round 2 qualifiers"],
     rounds: [
       {
         title: "Round 1 (Online)",
@@ -263,7 +263,7 @@ export const events: EventItem[] = [
     ],
     entryFee: "₹150 per team (2 members)",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdMBrit7nd5nCiPSuZFozA5F1zmjXwXlWr9-Mn33sX3bdLZkg/viewform",
-    rewards: ["Winner: ₹2000", "Prizes for winners and runners-up", "Participation certificates for all"],
+    rewards: ["1st Prize: ₹2000", "2nd Prize: ₹1000", "Prizes for winners and runners-up", "Participation certificates for all"],
     teamSize: "2 members",
     paymentNote: "Payment details will be shared after registration.",
     rounds: [
@@ -317,7 +317,7 @@ export const events: EventItem[] = [
     ],
     entryFee: "Round 1: FREE | Round 2: To be announced",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSfgVAduyNYv1xDkPYywGBIM6HGWbXQnLwVBhmw7rs6TB_ozrA/viewform",
-    rewards: ["Winner: ₹2500", "Tech Auction Champion – highest total points wins"],
+    rewards: ["Prize Money: ₹2000", "Tech Auction Champion – highest total points wins"],
     rounds: [
       {
         title: "Round 1 (Online)",
