@@ -38,7 +38,7 @@ const CodeClutch = () => {
 
           <ScrollReveal>
             <img
-              src={"https://res.cloudinary.com/dvvijlfio/image/upload/v1773495558/codeclutch_s09ra1.png"}
+              src={"https://res.cloudinary.com/dvvijlfio/image/upload/v1774430847/WhatsApp_Image_2026-03-25_at_2.57.07_PM_znkx04.jpg"}
               alt="CodeClutch Contest"
               className="w-full rounded-xl shadow-lg mb-8"
             />
