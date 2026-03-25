@@ -37,7 +37,7 @@ export const events: EventItem[] = [
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
     entryFee: "150/- (Spot Registration Available)",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLScUYnB0PTvFiy0YdOo4uGPgnCB6nyKLrgGLqeGYXiK79HoTzQ/viewform",
-    rewards: ["Winner Prize: ₹2000/-"],
+    rewards: ["1st Place: ₹1500", "2nd Place: ₹1000"],
     facultyCoordinators: [
       "Dr. B.Padmaja Rani","Dr. K Santhi Sree",
     ],
