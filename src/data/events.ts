@@ -144,7 +144,7 @@ export const events: EventItem[] = [
     ],
     entryFee: "Round 1: FREE",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSfaFVZNLDGz9VmBiGIXSpTzWY_bWr3dNWMZV28P3pJC0gUB0g/viewform?usp=header",
-    rewards: ["Winner: ₹3000", "Runner up: ₹1500"],
+    rewards: ["Winner: ₹1500", "Runner up: ₹1000"],
     rounds: [
       {
         title: "Round 1",
