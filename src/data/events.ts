@@ -36,7 +36,7 @@ export const events: EventItem[] = [
     host: "Sri Vatchav",
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
     entryFee: "150/- (Spot Registration Available)",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLScUYnB0PTvFiy0YdOo4uGPgnCB6nyKLrgGLqeGYXiK79HoTzQ/viewform",
     rewards: ["Winner Prize: ₹2000/-"],
     facultyCoordinators: [
       "Dr. B.Padmaja Rani","Dr. K Santhi Sree",
@@ -60,7 +60,7 @@ export const events: EventItem[] = [
       "Turning on the monitor leads to Instant Disqualification",
     ],
     entryFee: "Round 1: FREE | Round 2: ₹100/- (Early Bird) [Actual: ₹120]",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdDhPrdY3JqJGGdMd7wEhEiNO-0kaI02MwCzkDg_T_9yQjsTw/viewform",
     rewards: ["1st Place: ₹2000", "2nd Place: ₹1000", "Participation Certificates for Round 2 qualifiers"],
     rounds: [
       {
@@ -103,7 +103,7 @@ export const events: EventItem[] = [
     ],
     judgingCriteria: "Code correctness, efficiency & teamwork",
     entryFee: "Round 1: FREE | Round 2: ₹180 per team",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSeuIkl_a0Fsbfd8fVcnWlCzXBxDkMp7GM_HL5Vir9b2nBl03A/viewform",
     rewards: ["1st Prize: ₹2000", "2nd Prize: ₹1000", "Certificates for all Round 2 participants"],
     teamSize: "2 Members",
     rounds: [
@@ -143,7 +143,7 @@ export const events: EventItem[] = [
       "Mode: Online/Offline",
     ],
     entryFee: "Round 1: FREE",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSfaFVZNLDGz9VmBiGIXSpTzWY_bWr3dNWMZV28P3pJC0gUB0g/viewform?usp=header",
     rewards: ["Winner: ₹3000", "Runner up: ₹1500"],
     rounds: [
       {
@@ -169,7 +169,7 @@ export const events: EventItem[] = [
       "Round 2: Present your idea (prototype optional) to an expert panel (Offline, fee applies only if qualified)",
     ],
     entryFee: "Round 1: FREE | Round 2: ₹80 per person (if qualified)",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSesmMvQ936Zft-es6x6puOL_NJNG8LzDSRc5AJvIl7ooz3NJg/viewform",
     rewards: [
       "Winner – ₹1500",
       "Certificates for Winners, Runners-Up, and all candidates shortlisted for Round 2",
@@ -215,7 +215,7 @@ export const events: EventItem[] = [
       "Option to quit and claim prize money at any point",
     ],
     entryFee: "Round 1: FREE | Round 2: ₹120",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSc1ifGN-3GZEc9yylCwUEmSlyiEHuLEjXdsk-fDCR-NGpAxMQ/viewform",
     rewards: [
       "Winner – ₹2000",
       "All participants who play with the host receive prize money",
@@ -262,7 +262,7 @@ export const events: EventItem[] = [
       "Round 2 & 3: Topics given 15 minutes before start",
     ],
     entryFee: "₹150 per team (2 members)",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdMBrit7nd5nCiPSuZFozA5F1zmjXwXlWr9-Mn33sX3bdLZkg/viewform",
     rewards: ["Winner: ₹2000", "Prizes for winners and runners-up", "Participation certificates for all"],
     teamSize: "2 members",
     paymentNote: "Payment details will be shared after registration.",
@@ -349,7 +349,7 @@ export const events: EventItem[] = [
       "8.	The team with the highest total points at the end of the event will be declared the winner.",
     ],
     entryFee: "Round 1: FREE | Round 2: To be announced",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSfgVAduyNYv1xDkPYywGBIM6HGWbXQnLwVBhmw7rs6TB_ozrA/viewform",
     rewards: ["Winner: ₹2500", "Tech Auction Champion – highest total points wins"],
     rounds: [
       {
@@ -396,7 +396,7 @@ export const events: EventItem[] = [
       "The host’s decision will be final.",
     ],
     entryFee: "₹100 per participant",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdGk0OTswtUMEfB2Q6xGDjG2uTWkU5YRCTuPhoNi_BzHMmqhQ/viewform",
     rewards: [
       "Winner: ₹1500",
       "Runner-Up: ₹1000",
