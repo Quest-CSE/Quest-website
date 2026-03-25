@@ -32,7 +32,7 @@ export const events: EventItem[] = [
     shortDescription: "Showcase your innovative projects with PPT & poster.",
     description:
       "Present your innovative projects to a panel of experts. Come prepared with your PPT and poster for demonstration.",
-    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774432175/WhatsApp_Image_2026-03-24_at_10.16.03_PM_2_hevvqs.jpg",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774462162/project_expo_orhpvw.png",
     host: "Sri Vatchav",
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
     entryFee: "150/- (Spot Registration Available)",
