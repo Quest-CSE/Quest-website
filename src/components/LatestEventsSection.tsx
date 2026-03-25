@@ -7,18 +7,6 @@ import { workshops } from "@/data/workshops";
 const LatestEventsSection = () => {
 
   const events = [
-    {
-      id: "codeclutch",
-      title: "CodeClutch 2026",
-      shortDescription:
-        "Competitive coding contest conducted as part of QUEST 2026 with ₹25,000 prize pool.",
-      image:
-        "https://res.cloudinary.com/dvvijlfio/image/upload/v1773495558/codeclutch_s09ra1.png",
-      date: "20 – 24 March 2026",
-      type: "Contest",
-      link: "/codeclutch",
-    },
-
     ...workshops.map((w) => ({
       id: w.id,
       title: w.title,
