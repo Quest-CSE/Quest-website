@@ -296,40 +296,7 @@ export const events: EventItem[] = [
     ],
     date: "Registration Deadline: 07/04/25",
   },
-  {
-    id: "skribble",
-    title: "Skribble",
-    shortDescription: "Draw the word while others guess! Top scorers from each room advance to the Grand Finale.",
-    description:
-      "Skribble is a fun drawing-and-guessing game! Participants are grouped into rooms of 5-8 players. One player draws a given word while others guess it in the chat or on paper within 60 seconds. Points are awarded based on how fast the correct answer is guessed. The artist also gains points if their drawing is recognized. Top scorers from each room advance to the Grand Finale round.",
-    image: "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&h=400&fit=crop",
-    host: "CSE Department, JNTUH-UCESTH",
-    rules: [
-      "Individual participation – participants are grouped into rooms of 5-8 players",
-      "One player draws a given word while others guess it in the chat/on paper within 60 seconds",
-      "Points awarded based on how fast the correct answer is guessed",
-      "The artist also gains points if their drawing is recognized",
-      "Top scorers from each room advance to the Grand Finale round",
-    ],
-    entryFee: "To be announced",
-    registrationLink: "",
-    rewards: ["Prizes for Grand Finale winners"],
-    rounds: [
-      {
-        title: "Qualifier Round",
-        details: [
-          "Participants grouped into rooms of 5-8 players",
-          "One player draws, others guess within 60 seconds",
-          "Points for speed of correct guess + artist points if drawing is recognized",
-          "Top scorers from each room advance",
-        ],
-      },
-      {
-        title: "Grand Finale",
-        details: ["Top scorers from each room compete for the ultimate prize"],
-      },
-    ],
-  },
+ 
   {
     id: "tech-auction",
     title: "Tech Auction",
