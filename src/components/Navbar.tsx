@@ -20,7 +20,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border">
       <div className="container-narrow flex items-center justify-between h-16 px-4">
         <Link to="/" className="flex items-center gap-2">
-          <div className="w-40 h-40 rounded-lg  flex items-center justify-center">
+          <div className="w-12 h-12 rounded-lg  flex items-center justify-center">
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
             <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1771760690/craiyon_173618_image_xzibl9.png"/>
           </div>
