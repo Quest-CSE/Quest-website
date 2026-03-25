@@ -28,7 +28,7 @@ const HeroSection = () => (
         </h1>
 
         <p>Proudly Presented By</p>
-        <img  height={100} width={100} src = "https://www.being-infinity.com/assets/logo-f3F726X9.png"/><br/>
+        <img  height={100} width={100} src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1774460489/beinginfinity_logo-removebg-preview_nuuolv.png"/>
 
         <p className="text-lg md:text-xl leading-relaxed opacity-80 mb-8 max-w-lg">
           National Level Technical Symposium — where innovation meets excellence. 
