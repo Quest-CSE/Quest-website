@@ -17,16 +17,16 @@ const Navbar = () => {
   const location = useLocation();
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border p-4">
       <div className="container-narrow flex items-center justify-between h-16 px-4">
         <Link to="/" className="flex items-center gap-2">
-          <div className="w-12 h-12 rounded-lg  flex items-center justify-center">
+          <div className="w-15 h-15 rounded-lg  flex items-center justify-center">
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
-            <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1771760690/craiyon_173618_image_xzibl9.png"/>
+            <img height={70} width={70} src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1771760690/craiyon_173618_image_xzibl9.png"/>
           </div>
-          <div className="w-40 h-40 rounded-lg  flex items-center justify-center">
+          <div className="w-15 h-15 rounded-lg  flex items-center justify-center p-0">
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
-            <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1774431751/Your_paragraph_text__1_-removebg-preview_mimehj.png"/>
+            <img  height={350} width={300} src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1774431751/Your_paragraph_text__1_-removebg-preview_mimehj.png"/>
           </div>
           
         </Link>
