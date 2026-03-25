@@ -33,7 +33,7 @@ export const events: EventItem[] = [
     description:
       "Present your innovative projects to a panel of experts. Come prepared with your PPT and poster for demonstration.",
     image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774462162/project_expo_orhpvw.png",
-    host: "Sri Vatchav",
+    host: "Sri Vatchav : 77807 31663",
     rules: ["Come prepared with your Presentation & Poster for demonstration", "•	Teams must demonstrate their project to the judges."],
     entryFee: "150/- (Spot Registration Available)",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLScUYnB0PTvFiy0YdOo4uGPgnCB6nyKLrgGLqeGYXiK79HoTzQ/viewform",
