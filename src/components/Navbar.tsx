@@ -24,7 +24,7 @@ const Navbar = () => {
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
             <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1771760690/craiyon_173618_image_xzibl9.png"/>
           </div>
-          <div className="w-32 h-45 rounded-lg  flex items-center justify-center">
+          <div className="w-40 h-47 rounded-lg  flex items-center justify-center">
             {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
             <img src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1774431751/Your_paragraph_text__1_-removebg-preview_mimehj.png"/>
           </div>
