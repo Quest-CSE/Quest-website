@@ -204,17 +204,17 @@ export const events: EventItem[] = [
     description:
       "Prepare for the ultimate test of speed and knowledge! A thrilling two-round competition.",
     image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437035/WhatsApp_Image_2026-03-25_at_4.30.26_PM_oq8w6o.jpg",
-    host: "Prakash",
+    host: "Prakash,\nSai prasanna,\nTeja Sree,\nSiri,\nVaruni",
     rules: [
       "Round 1: Online Menti Quiz (Free) – Top performers shortlisted",
-      "Round 2: Offline Showdown (Entry Fee: ₹120)",
+      "Round 2: Offline Showdown (Entry Fee: ₹99)",
       "Fastest Finger Round: Rapid-fire MCQs, fastest three advance to play against host",
       "The Hot Seat: 10 challenging questions, lifelines (Phone a Friend, 50-50)",
       "Answer within stipulated time",
       "Wrong answer = lose all accumulated money",
       "Option to quit and claim prize money at any point",
     ],
-    entryFee: "Round 1: FREE | Round 2: ₹120",
+    entryFee: "Round 1: FREE | Round 2: ₹99",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSc1ifGN-3GZEc9yylCwUEmSlyiEHuLEjXdsk-fDCR-NGpAxMQ/viewform",
     rewards: [
       "Winner – ₹2000",
