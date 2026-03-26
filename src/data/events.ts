@@ -376,8 +376,8 @@ export const events: EventItem[] = [
     shortDescription: "Fun tech-based mini challenges testing creativity, teamwork, and quick thinking.",
     description:
       "Spin the Wheel is a fun and interactive event filled with exciting mini-challenges related to technology, creativity, and teamwork. Teams will spin the wheel to randomly select a challenge and complete it within the given time.",
-    image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&h=400&fit=crop",
-    host: "",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774507340/STW2_ihjo0g.png",
+    host: "Shashanka : 8074140081",
     rules: [
       "Teams spin the wheel to randomly select a challenge.",
       "Each challenge must be completed within the allotted time.",
@@ -387,24 +387,41 @@ export const events: EventItem[] = [
       "The Top 3 teams face the Final Boss Spin to determine the winner.",
       "The host’s decision will be final.",
     ],
-    entryFee: "₹80 per participant",
+    entryFee: "₹150 per team of 2",
     registrationLink: "",
     rewards: [
-      "Winner: ₹1200",
+      "Prize Poll : ₹2000",
     ],
     rounds: [
+      // {
+      //   title: "Mini Challenges",
+      //   details: [
+      //     "AI Prompt Challenge – Write the prompt that generated a strange AI image within 45 seconds.",
+      //     "Poll the Crew – Audience suggests solutions if the team gets stuck on a tech task.",
+      //     "Blindfold Tech Drawing – One teammate draws a tech logo while blindfolded using partner directions.",
+      //     "Ping vs Pong – Rapid-fire tech word association game with 2-second response limit.",
+      //     "Emoji Codebreaker – Guess tech brands or concepts from emojis within 10 seconds.",
+      //     "Prompt-to-Picasso – One participant describes an AI prompt while the partner draws it.",
+      //     "Live Quest Leaderboard – Scores displayed live to track team rankings.",
+      //     "Final Boss Spin – Top 3 teams spin again for the final grand challenge.",
+      //   ],
+      // },
+
       {
-        title: "Mini Challenges",
+        title: "Round 1 (Online)",
         details: [
-          "AI Prompt Challenge – Write the prompt that generated a strange AI image within 45 seconds.",
-          "Poll the Crew – Audience suggests solutions if the team gets stuck on a tech task.",
-          "Blindfold Tech Drawing – One teammate draws a tech logo while blindfolded using partner directions.",
-          "Ping vs Pong – Rapid-fire tech word association game with 2-second response limit.",
-          "Emoji Codebreaker – Guess tech brands or concepts from emojis within 10 seconds.",
-          "Prompt-to-Picasso – One participant describes an AI prompt while the partner draws it.",
-          "Live Quest Leaderboard – Scores displayed live to track team rankings.",
-          "Final Boss Spin – Top 3 teams spin again for the final grand challenge.",
+          "Till 3rd April",
+          "Conducted online",
         ],
+        fee: "FREE",
+      },
+      {
+        title: "Round 2 (Offline):",
+        details: [
+          "Conducted in 3 levels"
+        ],
+        fee: "₹150 per team (2 members)",
+
       },
     ],
   },
