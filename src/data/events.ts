@@ -388,7 +388,7 @@ export const events: EventItem[] = [
       "The host’s decision will be final.",
     ],
     entryFee: "₹150 per team of 2",
-    registrationLink: "",
+    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSf9dtxVX6fy64oLXiq-qv3AIi6iDsmpuYXt0qF7p11eWoi1pA/viewform?usp=publish-editor",
     rewards: [
       "Prize Poll : ₹2000",
     ],
