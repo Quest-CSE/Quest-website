@@ -271,7 +271,7 @@ export const events: EventItem[] = [
         title: "Round 1: The Qualifier Clash",
         details: [
           "Format: Offline",
-          "Duration: 20-25 mins",
+          "Duration: 15 mins",
           "Each team assigned a motion to argue for or against",
           "Structured rebuttals – top teams advance",
         ],
@@ -279,7 +279,7 @@ export const events: EventItem[] = [
       {
         title: "Round 2: Semi-Finals",
         details: [
-          "Duration: 20-25 mins",
+          "Duration: 15 mins",
           "Debate topics given 15 minutes before start",
           "Only the sharpest teams reach the final",
         ],
