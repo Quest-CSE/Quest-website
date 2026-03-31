@@ -191,7 +191,7 @@ export const events: EventItem[] = [
           "Present your idea (prototype optional) to an expert panel",
           "Specialized in your chosen domain",
           "Held offline during the fest",
-          "Entry Fee: ₹100 per person (only if you qualify)",
+          "Entry Fee: ₹100 per person, ₹150 for Duo (only if you qualify)",
         ],
         fee: "₹100 per person",
       },
