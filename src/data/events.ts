@@ -193,7 +193,7 @@ export const events: EventItem[] = [
           "Held offline during the fest",
           "Entry Fee: ₹100 per person, ₹150 for Duo (only if you qualify)",
         ],
-        fee: "₹100 per person",
+        fee: "₹100 per person, ₹150 for Duo (only if you qualify)",
       },
     ],
   },
