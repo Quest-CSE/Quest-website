@@ -168,7 +168,7 @@ export const events: EventItem[] = [
       "Round 1: Choose one domain, pick a problem statement, propose an effective solution through Presentation(Online, FREE)",
       "Round 2: Present your idea (prototype optional) to an expert panel (Offline, fee applies only if qualified)",
     ],
-    entryFee: "Round 1: FREE | Round 2: ₹80 per person (if qualified)",
+    entryFee: "Round 1: FREE | Round 2: ₹100 per person , ₹150 for Duo (if qualified)",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSesmMvQ936Zft-es6x6puOL_NJNG8LzDSRc5AJvIl7ooz3NJg/viewform",
     rewards: [
       "Winner – ₹1500",
