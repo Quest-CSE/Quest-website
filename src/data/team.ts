@@ -23,9 +23,8 @@ export const teamSections: TeamSection[] = [
    {
     title: "Department",
     members: [
-      { name: "Dr. K P Supreethi", role: "Head of Department CSE", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771828666/IMG-20260221-WA0047_heqaiq.jpg", phone : null},
+      { name: "Dr. K Santhi Sree", role: "Head of Department CSE & Faculty Coordinator", image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935042/IMG-20260223-WA0018_dk8vhk.jpg", phone : null},
       { name: "	Dr B Padmaja Rani", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934923/WhatsApp_Image_2026-02-23_at_12.22.09_PM_g9gpdq.jpg", phone : null},
-      { name: "Prof. K Santhi Sree", role: "Faculty Coordinator"  , image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935042/IMG-20260223-WA0018_dk8vhk.jpg", phone : null},
     ],
   },
  
