@@ -425,4 +425,35 @@ export const events: EventItem[] = [
       },
     ],
   },
+
+  {
+    id: "Scribble",
+    title: "Scribble",
+    shortDescription: "Draw Fast, Guess Faster! ",
+    description:
+      "Think you’re creative? Think you’re quick? Time to prove it! \n Join SCRIBBL, the most exciting drawing & guessing challenge where fun, and competition collide!",
+    image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1775117087/skribble_uxegun.jpg",
+    host: "Chandana, Vyshnavi, Shreehitha, Kavya, Aashrith",
+    rules: [
+      "1.	Participants will be divided into small groups.",
+      "2.	Each group plays the game together.",
+      "3.	One player picks a secret word from 3 options.",
+      "4.	Starts sketching it (no words, only drawings!).",
+      "5.	Players race against time to guess it correctly.",
+      "6.	Faster guesses = Higher chances to WIN! 🏆",
+    ],
+    entryFee: "₹ 40 (Per Person)",
+    registrationLink: "https://forms.gle/EyPmcTgzZLmmcPGw7",
+    rewards: [" Winner – ₹100", "Runner-up – ₹50"],
+    rounds: [
+      {
+        title: "Event Details",
+        details: [
+          "Date: 9th April 2026",
+          " Venue: CSE Department, JNTUH college",
+        ],
+        fee: "₹ 40 (Per Person)",
+      },
+    ],
+  },
 ];
