@@ -180,7 +180,7 @@ export const events: EventItem[] = [
       {
         title: "Round 1",
         details: [
-          "Entry Fee: ₹100 per person, ₹150 for Duo",
+          "₹100 per person, ₹150 for Duo",
           "Choose one domain, pick a problem statement",
           "Propose an effective solution through an impressive PPT presentation",
           "Conducted online",
