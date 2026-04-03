@@ -165,10 +165,10 @@ export const events: EventItem[] = [
     image: "https://res.cloudinary.com/dvvijlfio/image/upload/v1774437891/ideathon_final_vdrmxb.jpg",
     host: "Keerthi",
     rules: [
-      "Round 1: Choose one domain, pick a problem statement, propose an effective solution through Presentation(Online, FREE)",
-      "Round 2: Present your idea (prototype optional) to an expert panel (Offline, fee applies only if qualified)",
+      "Round 1: Choose one domain, pick a problem statement, propose an effective solution through Presentation(Online)",
+      "Round 2: Present your idea (prototype optional) to an expert panel (Offline)",
     ],
-    entryFee: "Round 1: FREE | Round 2: ₹100 per person , ₹150 for Duo (if qualified)",
+    entryFee: "Fee : ₹100 per person , ₹150 for Duo ",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSesmMvQ936Zft-es6x6puOL_NJNG8LzDSRc5AJvIl7ooz3NJg/viewform",
     rewards: [
       "Winner – ₹1500",
@@ -180,9 +180,10 @@ export const events: EventItem[] = [
       {
         title: "Round 1",
         details: [
+          "Entry Fee: ₹100 per person, ₹150 for Duo",
           "Choose one domain, pick a problem statement",
           "Propose an effective solution through an impressive PPT presentation",
-          "Conducted online – completely free",
+          "Conducted online",
         ],
       },
       {
@@ -191,9 +192,8 @@ export const events: EventItem[] = [
           "Present your idea (prototype optional) to an expert panel",
           "Specialized in your chosen domain",
           "Held offline during the fest",
-          "Entry Fee: ₹100 per person, ₹150 for Duo (only if you qualify)",
         ],
-        fee: "₹100 per person, ₹150 for Duo (only if you qualify)",
+        fee: "₹100 per person, ₹150 for Duo",
       },
     ],
   },
