@@ -185,6 +185,7 @@ export const events: EventItem[] = [
           "Propose an effective solution through an impressive PPT presentation",
           "Conducted online",
         ],
+        fee: "₹100 per person, ₹150 for Duo",
       },
       {
         title: "Round 2",
@@ -193,7 +194,7 @@ export const events: EventItem[] = [
           "Specialized in your chosen domain",
           "Held offline during the fest",
         ],
-        fee: "₹100 per person, ₹150 for Duo",
+        
       },
     ],
   },
