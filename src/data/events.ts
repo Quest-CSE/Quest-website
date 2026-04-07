@@ -60,7 +60,7 @@ export const events: EventItem[] = [
       "Turning on the monitor leads to Instant Disqualification",
     ],
     entryFee: "Round 1: FREE | Round 2: ₹100/- (Early Bird) [Actual: ₹120]",
-    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdDhPrdY3JqJGGdMd7wEhEiNO-0kaI02MwCzkDg_T_9yQjsTw/viewform",
+    registrationLink: "https://forms.gle/TjrdxmDyVz4dRLjMA",
     rewards: ["1st Place: ₹1500", "2nd Place: ₹1000", "Participation Certificates for Round 2 qualifiers"],
     rounds: [
       {
@@ -75,6 +75,7 @@ export const events: EventItem[] = [
       {
         title: "Round 2 (Offline)",
         details: [
+          
           "Only qualified participants from Round 1 move to this stage",
           "Time management + coding efficiency = Key to success!",
           "Syntax, semantics, and problem-solving under strict time constraints",
@@ -103,7 +104,7 @@ export const events: EventItem[] = [
     ],
     judgingCriteria: "Code correctness, efficiency & teamwork",
     entryFee: "Round 1: FREE | Round 2: ₹180 per team",
-    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSeuIkl_a0Fsbfd8fVcnWlCzXBxDkMp7GM_HL5Vir9b2nBl03A/viewform",
+    registrationLink: "https://forms.gle/Hy6nhWxBmeRekGnd6",
     rewards: ["1st Prize: ₹2000", "2nd Prize: ₹1000", "Certificates for all Round 2 participants"],
     teamSize: "2 Members",
     rounds: [
@@ -143,7 +144,7 @@ export const events: EventItem[] = [
       "Mode: Online/Offline",
     ],
     entryFee: "Round 1: FREE",
-    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSfaFVZNLDGz9VmBiGIXSpTzWY_bWr3dNWMZV28P3pJC0gUB0g/viewform?usp=header",
+    registrationLink: "https://forms.gle/1SYGcCBPbBr4aDKh6",
     rewards: ["Winner: ₹1500", "Runner up: ₹1000"],
     rounds: [
       {
@@ -216,7 +217,7 @@ export const events: EventItem[] = [
       "Option to quit and claim prize money at any point",
     ],
     entryFee: "Round 1: FREE | Round 2: ₹99",
-    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSc1ifGN-3GZEc9yylCwUEmSlyiEHuLEjXdsk-fDCR-NGpAxMQ/viewform",
+    registrationLink: "https://forms.gle/7r3yBk7w53RL8Gym7 ",
     rewards: [
       "Winner – ₹2000",
       "All participants who play with the host receive prize money",
@@ -389,7 +390,7 @@ export const events: EventItem[] = [
       "The host’s decision will be final.",
     ],
     entryFee: "₹150 per team of 2",
-    registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSf9dtxVX6fy64oLXiq-qv3AIi6iDsmpuYXt0qF7p11eWoi1pA/viewform?usp=publish-editor",
+    registrationLink: "https://docs.google.com/forms/d/1R_-UK1Vyp3q0Vi6hirynIXAhNm0Oqx6Z_UC0rqj7l34/edit",
     rewards: [
       "Prize Poll : ₹2000",
     ],
