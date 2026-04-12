@@ -41,9 +41,17 @@ const App = () => (
       </BrowserRouter>
     </TooltipProvider> */}
 
-    <h1 className="font-display font-bold text-center text-xl mb-1">Fest aipoyindhi</h1>
-    <h1 className="font-display font-bold  text-center text-xl mb-1">Thank you everyone........</h1>
-    <img className="justify-center" style={{"height" : "70%", "width" : "100%"}} src={"https://res.cloudinary.com/dvvijlfio/image/upload/v1775980156/WhatsApp_Image_2026-04-11_at_11.13.12_mrljkm.jpg"} />
+    <h1 className="font-display font-bold text-center text-xl mb-1">
+    Fest aipoyindhi
+    </h1>
+    <h1 className="font-display font-bold text-center text-xl mb-1">
+      Thank you everyone........
+    </h1>
+    <img
+      className="justify-center"
+      style={{ height: "70%", width: "100%" }}
+      src="https://res.cloudinary.com/dvvijlfio/image/upload/v1775980156/WhatsApp_Image_2026-04-11_at_11.13.12_mrljkm.jpg"
+    />
   </QueryClientProvider>
 );
 
