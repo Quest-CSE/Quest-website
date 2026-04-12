@@ -19,7 +19,7 @@ const queryClient = new QueryClient();
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
-    <TooltipProvider>
+    {/* <TooltipProvider>
       <Toaster />
       <Sonner />
       <BrowserRouter>
@@ -39,7 +39,10 @@ const App = () => (
         </main>
         <Footer />
       </BrowserRouter>
-    </TooltipProvider>
+    </TooltipProvider> */}
+
+    <h1 className="font-display font-bold text-center text-xl mb-1">Fest aipoyindhi</h1>
+    <h1 className="font-display font-bold  text-center text-xl mb-1">Thank you everyone........</h1>
   </QueryClientProvider>
 );
 
