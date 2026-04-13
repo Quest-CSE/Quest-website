@@ -12,7 +12,7 @@ const Index = () => (
     <HeroSection />
 
     {/* Dates highlight */}
-    <section className="section-padding">
+    {/* <section className="section-padding">
       <div className="container-narrow text-center">
         <ScrollReveal>
           <p className="text-sm uppercase tracking-widest text-primary font-semibold mb-2">
@@ -28,7 +28,7 @@ const Index = () => (
           </p>
         </ScrollReveal>
       </div>
-    </section>
+    </section> */}
 
     <CounterSection />
     <SponsorSection />
