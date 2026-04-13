@@ -48,7 +48,7 @@ const SponsorSection = () => (
       </ScrollReveal>
     </div>
 
-    <div className="container-narrow mt-10">
+    {/* <div className="container-narrow mt-10">
       <ScrollReveal>
         <h2 className="text-3xl md:text-4xl font-display font-bold text-center mb-4">
           Previous <span className="gradient-text">Sponsors</span>
@@ -67,14 +67,13 @@ const SponsorSection = () => (
             >
 
               <div className="w-40 h-30 rounded-lg  flex items-center justify-center">
-                {/* <span className="text-primary-foreground font-display font-bold text-sm"></span> */}
                 <img src={s}/>
               </div>
             </div>
           ))}
         </div>
       </ScrollReveal>
-    </div>
+    </div> */}
   </section>
 );
 
