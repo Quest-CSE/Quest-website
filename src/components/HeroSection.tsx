@@ -18,10 +18,10 @@ const HeroSection = () => (
         transition={{ duration: 0.8, ease: "easeOut" }}
         className="max-w-2xl"
       >
-        <div className="inline-flex items-center gap-2 rounded-full bg-primary-foreground/10 backdrop-blur-sm border border-primary-foreground/20 px-4 py-2 text-sm mb-6">
+        {/* <div className="inline-flex items-center gap-2 rounded-full bg-primary-foreground/10 backdrop-blur-sm border border-primary-foreground/20 px-4 py-2 text-sm mb-6">
           <CalendarDays size={16} />
           <span>April 9 – 10, 2026</span>
-        </div>
+        </div> */}
 
         <h1 className="text-5xl md:text-7xl font-display font-bold leading-[1.1] mb-6">
           Quest<span className="opacity-50">.</span>2026
@@ -30,7 +30,7 @@ const HeroSection = () => (
         <p>Proudly Presented By</p>
         <img  height={100} width={100} src = "https://res.cloudinary.com/dvvijlfio/image/upload/v1774460489/beinginfinity_logo-removebg-preview_nuuolv.png"/>
 
-        <p className="text-lg md:text-xl leading-relaxed opacity-80 mb-8 max-w-lg">
+        {/* <p className="text-lg md:text-xl leading-relaxed opacity-80 mb-8 max-w-lg">
           National Level Technical Symposium — where innovation meets excellence. 
           Two days of events, workshops, and knowledge sharing.
         </p>
@@ -49,7 +49,7 @@ const HeroSection = () => (
           >
             Learn More
           </Link>
-        </div>
+        </div> */}
       </motion.div>
     </div>
   </section>
