@@ -6,8 +6,17 @@ import LocationSection from "@/components/LocationSection";
 import FeedbackSection from "@/components/FeedbackSection";
 import ScrollReveal from "@/components/ScrollReveal";
 import LatestEventsSection from "@/components/LatestEventsSection";
+import { useState } from "react";
+import { gallerySections } from "@/data/gallery";
+import SectionHeading from "@/components/SectionHeading";
+import ScrollReveal from "@/components/ScrollReveal";
+import { X } from "lucide-react";
 
-const Index = () => (
+
+const Index = () => {
+  const [lightbox, setLightbox] = useState<string | null>(null);
+  
+  return (
   <>
     <HeroSection />
 
@@ -39,5 +48,6 @@ const Index = () => (
     {/* <FeedbackSection /> */}
   </>
 );
+}
 
 export default Index;
