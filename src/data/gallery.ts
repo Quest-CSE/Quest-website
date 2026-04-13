@@ -6,8 +6,8 @@ export interface GallerySection {
 
 export const gallerySections: GallerySection[] = [
   {
-    id: "quest-2025",
-    title: "Quest 2025 Highlights",
+    id: "quest-2026",
+    title: "Quest 2026 Highlights",
     photos: [
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933193/iuhoh_rehtq5.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933194/rogero_p6ijnr.jpg",
@@ -19,7 +19,7 @@ export const gallerySections: GallerySection[] = [
   },
   {
     id: "workshops-prev",
-    title: "Past Workshops and Events",
+    title: "Workshops and Events",
     photos: [
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934106/ewgre_mdrffo.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934168/wefwe_rhib49.jpg",
