@@ -22,6 +22,7 @@ export const gallerySections: GallerySection[] = [
     title: "Workshops and Events",
     photos: [
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085725/IMG-20260329-WA0250.jpg_x3kusu.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776707629/WhatsApp_Image_2026-04-20_at_23.23.04_ppu4fh.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085734/IMG-20260331-WA0164.jpg_u9cqi4.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085729/IMG-20260331-WA0115.jpg_b3becb.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1772022752/IMG_20200313_110802_sjwqh0.jpg",
