@@ -31,7 +31,7 @@ export const gallerySections: GallerySection[] = [
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1771932986/IMG-20200916-WA0071_1_aexqwz.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1772022731/DSC_0534_mzdgfk.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085492/DSC_2526_z5ayuu.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1772041984/class_mvqfio.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776707360/WhatsApp_Image_2026-04-20_at_23.18.30_saxgi9.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1772381772/IMG-20260301-WA0020.jpg_r7dyxj.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085910/IMG_6421_y1lhz3.jpg",
       "https://res.cloudinary.com/dvvijlfio/image/upload/v1776086007/DSC_1714_iovvn8.jpg",
