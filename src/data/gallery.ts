@@ -9,12 +9,12 @@ export const gallerySections: GallerySection[] = [
     id: "quest-2026",
     title: "Quest 2026 Highlights",
     photos: [
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933193/iuhoh_rehtq5.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933194/rogero_p6ijnr.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933010/IMG_8735_vrp002.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771933000/IMG_8750_e8nulo.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771935480/IMG_7010_iue8wd.jpg",
-      "https://res.cloudinary.com/dvvijlfio/image/upload/v1771934105/btrb_cpfjf7.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776086105/DSC_2021_onn8an.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085722/IMG-20260329-WA0185.jpg_atarha.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776085731/IMG-20260331-WA0049.jpg_1_uqbzqy.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776086175/DSC_2189_tojnnw.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776086143/DSC_2153_conlmv.jpg",
+      "https://res.cloudinary.com/dvvijlfio/image/upload/v1776086178/DSC_2234_wxkvcx.jpg",
     ],
   },
   {
